@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KonerDev
+- 👀 I’m interested in Gaming and Developing
+- 🧑🏻‍💻 I can code in VBS, VBA, HTML, CSS, BASH...
+- 🌱 I'm actually learning JS, C# and more CSS
+- 📫 You can reach me at koner.help@gmail.com
