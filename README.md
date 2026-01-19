@@ -13,3 +13,4 @@ I'm Koner, a student developer focused on contributing to open-source projects, 
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=KonerDev&hide_border=true&icon_color=00C357&title_color=00C357&bg_color=273341&text_color=FFFFFF&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![](https://komarev.com/ghpvc/?username=KonerDev&color=00C357&style=pixel)
